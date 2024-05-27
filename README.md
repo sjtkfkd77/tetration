@@ -11,7 +11,10 @@ https://github.com/DMTPARK/mytetration/tree/main
 
 입력 변수는 ptf.txt 파일에서 설정
 
+
 성능
+
 i7-10700F CPU 에서 처리 시간
+
 FHD (1920 x 1080) : ~ 4초 이내
 4k (3840 X 2160) : ~ 16초 이내 
